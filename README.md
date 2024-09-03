@@ -1,6 +1,6 @@
 # Hi there, I'm Santo 👋
 
-I'm a third-year ICT student passionate software developer with a love for coding and creating projects. My journey in programming started with learning C, Java, and a bit of C++, and I’ve especially enjoyed working with Java. I'm currently looking into the world of app development, as I believe it’s my niche. I’ve also taken a keen interest in cross-platform app development, exploring tools like Flutter.
+I'm a third-year ICT student passionate about software developer with a love for coding and creating projects. My journey in programming started with learning C, Java, and a bit of C++, and I’ve especially enjoyed working with Java. I'm currently looking into the world of app development, as I believe it’s my niche. I’ve also taken a keen interest in cross-platform app development, exploring tools like Flutter.
 
 ## What I'm Working On
 - 🌱 Currently, I’m focusing on learning **Git** and **GitHub** to manage my projects better.
