@@ -3,7 +3,6 @@
 I'm a third-year ICT student passionate about software developer with a love for coding and creating projects. My journey in programming started with learning C, Java, and a bit of C++, and I’ve especially enjoyed working with Java. I'm currently looking into the world of app development, as I believe it’s my niche. I’ve also taken a keen interest in cross-platform app development, exploring tools like Flutter.
 
 ## What I'm Working On
-- 🌱 Currently, I’m focusing on learning **Git** and **GitHub** to manage my projects better.
 - 📱 Exploring cross-platform mobile app development with tools like **Flutter** and learning **Dart**
 - 💻 Building a strong portfolio to showcase my projects and skills.
 
@@ -15,7 +14,8 @@ I'm a third-year ICT student passionate about software developer with a love for
 
 ## Let's Connect!
 - 🌍 [My GitHub Profile](https://github.com/Samiul-Hossen-Sarkar-Santo)
-- 🌍 [My Linkedin Profile](https://www.instagram.com/samiul.hossen/)
+- 🌍 [My Linkedin Profile](https://www.linkedin.com/in/samiul-hossen/)
+- 🌍 [My Instagram Profile](https://www.instagram.com/samiul.hossen/)
 - 🌍 [My Facebook Profile](https://www.facebook.com/shamiulhossensanto)
 - 💬 I’m always open to connecting with fellow developers and sharing knowledge.
 
