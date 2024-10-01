@@ -11,6 +11,7 @@ I'm a third-year ICT student passionate about software developer with a love for
 - ✍️ I write poems and enjoy literature, especially the works of **Humayun Ahmed**, **Paulo Coelho**, **Qazi Anwar Hussain**, **Zahir Raihan**, **Ahmed Sofa** etc.
 - 🎮 I’ve built console-based games like **Chopsticks** and **Vocab Victory** in Java.
 - 🎬 I'm a **Marvel** fan, but I love all sorts of Sci-fi, superhero movies.
+- 💭 My favorite quote is: ***"If it causes no harm to anyone, do whatever you feel like. Cause, NOBODY GIVES A SHIT!!!"*** - Me🤲
 
 ## Let's Connect!
 - 🌍 [My GitHub Profile](https://github.com/Samiul-Hossen-Sarkar-Santo)
@@ -23,4 +24,4 @@ Feel free to explore my repositories and projects. I’m constantly learning and
 
 ---
 
-Thanks for stopping by!
+Thanks for stopping by (●'◡'●)
